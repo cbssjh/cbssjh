@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @cbssjh
-- 👀 I’m interested in JS 
-- 🌱 I’m currently learning Vanilla JS
+Hi, I am Junhyeok Seo.
+Interested in FrontEnd.
