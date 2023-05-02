@@ -1,4 +1,3 @@
-# Junhyeok Seo
 ### Hi,</br>Seeking to develop my skills as a frontend engineer or full-stack web developer.
 
 ## 💻 My Stack
