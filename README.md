@@ -20,3 +20,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-squaree&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
+
+<div>
+![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbssjh&show_icons=true&theme=dark)</div>
