@@ -23,5 +23,6 @@
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>
 
-![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbssjh&show_icons=true&theme=swift)
-
+<div align='center'>
+  ![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbssjh&show_icons=true&theme=swift)
+</div>
