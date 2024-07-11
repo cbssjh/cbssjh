@@ -22,4 +22,4 @@
 </div>
 
 <div>
-![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbssjh&show_icons=true&theme=dark)</div>
+![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=graywhite)
