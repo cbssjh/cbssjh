@@ -12,6 +12,7 @@
 </div>
 
 <h3 div align="center">💻 Tools</h3>
+<div align='center'>
   <a href = "https://github.com/cbssjh"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a> <a href = "https://"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
   </a> <a href = ""> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
