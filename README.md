@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=Junhyeok%20Seo%20&fontSize=90" />
-</div>
+
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
